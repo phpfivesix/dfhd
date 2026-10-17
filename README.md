@@ -2,6 +2,8 @@
 
 A patched executable (`dfhd.exe`) for Delta Force v1.00.03.03P that runs at higher resolutions, up to your desktop resolution, without extra tools like dgVoodoo2.
 
+Download `dfhd.zip` from the [releases page](https://github.com/phpfivesix/dfhd/releases).
+
 See [readme.txt](readme.txt) for installation, changes and commands.
 
 ## Troubleshooting
