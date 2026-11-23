@@ -29,6 +29,7 @@ flowchart TD
 ![Delta Force HD screenshot](images/df1_004.png)
 ![Delta Force HD screenshot](images/df1_006.png)
 ![Delta Force HD screenshot](images/df1_008.png)
+![Delta Force HD screenshot](images/df1_menu.png)
 ![Delta Force HD screenshot](images/df1_007.png)
 ![Delta Force HD screenshot](images/df1_001.png)
 ![Delta Force HD screenshot](images/df1_002.png)
